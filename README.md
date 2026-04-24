@@ -40,7 +40,7 @@ Soy estudiante de **Ingeniería de Software** en la Universidad Técnica de Amba
 ---
 
 ### 🎬 [CinEC — Plataforma de Cine](https://github.com/Sebastianyiyi/CinEC)
-> Aplicación web estilo plataforma de cine, construida con React y TypeScript. Servidor con Vite para desarrollo rápido y eficiente. Proyecto colaborativo.
+> Aplicación web estilo plataforma de cine construida con React y TypeScript. Servidor con Vite para desarrollo rápido y eficiente. Proyecto colaborativo.
 
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -59,11 +59,10 @@ Soy estudiante de **Ingeniería de Software** en la Universidad Técnica de Amba
 ---
 
 ### 📊 [App Probabilística — Chi-Cuadrado Salarial](https://github.com/VladAlz/App-Proba)
-> Aplicación Android para el cálculo probabilístico del pago de salarios según género y variables de vulnerabilidad, usando la prueba estadística Chi-Cuadrado. Construida con Firebase Studio.
+> Aplicación Android para el cálculo probabilístico del pago de salarios según género y variables de vulnerabilidad, usando la prueba estadística Chi-Cuadrado.
 
 ![Android](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Statistics](https://img.shields.io/badge/-Chi--Cuadrado-FF6B6B?style=flat)
 
 ---
 
@@ -91,6 +90,32 @@ Soy estudiante de **Ingeniería de Software** en la Universidad Técnica de Amba
 
 ## 📊 Estadísticas de GitHub
 
-<div align="center">
+![VladAlz's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladAlz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-![VladAlz's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladAlz&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladAlz&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=VladAlz&theme=tokyonight&hide_border=true)
+
+---
+
+## 🏆 Logros
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=VladAlz&theme=tokyonight&no-frame=true&row=1&column=6)
+
+---
+
+## 📫 Contacto
+
+[![GitHub](https://img.shields.io/badge/GitHub-VladAlz-181717?style=for-the-badge&logo=github)](https://github.com/VladAlz)
+[![Portfolio](https://img.shields.io/badge/Portfolio-VladAlz.github.io-00C7B7?style=for-the-badge&logo=githubpages)](https://VladAlz.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Humberto%20González-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/humberto-gonzález-1881a7377)
+[![Instagram](https://img.shields.io/badge/Instagram-vladd__alz-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/vladd_alz/)
+[![Facebook](https://img.shields.io/badge/Facebook-Vlady%20González-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/vlady.gonzalez.169/about)
+[![Email](https://img.shields.io/badge/Email-umberlarez@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umberlarez@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-0967839966-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/593967839966)
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=VladAlz&color=6ee7b7&style=flat-square&label=Visitas+al+perfil)
+
+*Siempre aprendiendo · Open to collaborate 🚀*
