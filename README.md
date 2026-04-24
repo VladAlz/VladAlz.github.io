@@ -98,12 +98,6 @@ Soy estudiante de **Ingeniería de Software** en la Universidad Técnica de Amba
 
 ---
 
-## 🏆 Logros
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=VladAlz&theme=tokyonight&no-frame=true&row=1&column=6)
-
----
-
 ## 📫 Contacto
 
 [![GitHub](https://img.shields.io/badge/GitHub-VladAlz-181717?style=for-the-badge&logo=github)](https://github.com/VladAlz)
