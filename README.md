@@ -115,6 +115,5 @@ Soy estudiante de **Ingeniería de Software** en la Universidad Técnica de Amba
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=VladAlz&color=6ee7b7&style=flat-square&label=Visitas+al+perfil)
 
 *Siempre aprendiendo · Open to collaborate 🚀*
