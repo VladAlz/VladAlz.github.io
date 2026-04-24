@@ -90,13 +90,17 @@ Soy estudiante de **Ingeniería de Software** en la Universidad Técnica de Amba
 
 ## 📊 Estadísticas de GitHub
 
-![VladAlz's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladAlz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![VladAlz's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladAlz&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladAlz&layout=compact&theme=tokyonight&hide_border=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=VladAlz&theme=tokyonight&hide_border=true)
 
 ---
+
+## 🏆 Logros
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=VladAlz&theme=tokyonight&no-frame=true&row=1&column=6)
 
 
 ## 📫 Contacto
