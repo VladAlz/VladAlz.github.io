@@ -32,45 +32,45 @@ Soy estudiante de **Ingeniería de Software** en la Universidad Técnica de Amba
 ### 🛒 [Sistema de Ventas tipo Amazon](https://github.com/VladAlz)
 > Plataforma de e-commerce completa con catálogo de productos, carrito de compras, gestión de pedidos y panel admin. Arquitectura de microservicios para máxima escalabilidad.
 
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://github.com/VladAlz)
-[![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://github.com/VladAlz)
-[![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://github.com/VladAlz)
-[![Microservicios](https://img.shields.io/badge/-Microservicios-FF6B6B?style=flat)](https://github.com/VladAlz)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Microservicios](https://img.shields.io/badge/-Microservicios-FF6B6B?style=flat)
 
 ---
 
 ### 🎬 [CinEC — Plataforma de Cine](https://github.com/Sebastianyiyi/CinEC)
 > Aplicación web estilo plataforma de cine construida con React y TypeScript. Servidor con Vite para desarrollo rápido y eficiente. Proyecto colaborativo.
 
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://github.com/Sebastianyiyi/CinEC)
-[![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)](https://github.com/Sebastianyiyi/CinEC)
-[![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)](https://github.com/Sebastianyiyi/CinEC)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat&logo=vite&logoColor=white)
 
 ---
 
 ### 🎓 [Plataforma Estudiantil](https://github.com/VladAlz/Plataforma-Estudiantil)
 > Sistema web académico con roles de Estudiante, Profesor y Admin. Incluye calendario, autenticación segura y gestión de usuarios. Desarrollado en equipo con 4 contribuidores.
 
-[![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)](https://github.com/VladAlz/Plataforma-Estudiantil)
-[![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)](https://github.com/VladAlz/Plataforma-Estudiantil)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)](https://github.com/VladAlz/Plataforma-Estudiantil)
-[![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)](https://github.com/VladAlz/Plataforma-Estudiantil)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
 ---
 
 ### 📊 [App Probabilística — Chi-Cuadrado Salarial](https://github.com/VladAlz/App-Proba)
 > Aplicación Android para el cálculo probabilístico del pago de salarios según género y variables de vulnerabilidad, usando la prueba estadística Chi-Cuadrado.
 
-[![Android](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android&logoColor=white)](https://github.com/VladAlz/App-Proba)
-[![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](https://github.com/VladAlz/App-Proba)
+![Android](https://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
 
 ---
 
 ### 🧟 [Plants vs Zombies — Cartillas](https://github.com/VladAlz/Plants_vs_Zombies_Cards)
 > Videojuego educativo de estilo Plants vs Zombies orientado a cartillas de presentación interactivas.
 
-[![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://github.com/VladAlz/Plants_vs_Zombies_Cards)
-[![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)](https://github.com/VladAlz/Plants_vs_Zombies_Cards)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
 
 ---
 
@@ -90,19 +90,14 @@ Soy estudiante de **Ingeniería de Software** en la Universidad Técnica de Amba
 
 ## 📊 Estadísticas de GitHub
 
-<img src="https://github-readme-stats.vercel.app/api?username=VladAlz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="100%" alt="GitHub Stats"/>
+![VladAlz's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladAlz&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VladAlz&layout=compact&theme=tokyonight&hide_border=true" width="100%" alt="Top Languages"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladAlz&layout=compact&theme=tokyonight&hide_border=true)
 
-<img src="https://streak-stats.demolab.com?user=VladAlz&theme=tokyonight&hide_border=true" width="100%" alt="GitHub Streak"/>
-
----
-
-## 🏆 Logros
-
-<img src="https://github-profile-trophy.vercel.app/?username=VladAlz&theme=tokyonight&no-frame=true&row=1&column=6" width="100%" alt="Trophies"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=VladAlz&theme=tokyonight&hide_border=true)
 
 ---
+
 
 ## 📫 Contacto
 
@@ -116,6 +111,6 @@ Soy estudiante de **Ingeniería de Software** en la Universidad Técnica de Amba
 
 ---
 
-<img src="https://komarev.com/ghpvc/?username=VladAlz&color=6ee7b7&style=flat-square&label=Visitas+al+perfil" alt="profile views"/>
+![Profile Views](https://komarev.com/ghpvc/?username=VladAlz&color=6ee7b7&style=flat-square&label=Visitas+al+perfil)
 
 *Siempre aprendiendo · Open to collaborate 🚀*
