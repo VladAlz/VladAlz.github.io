@@ -1,6 +1,6 @@
 # 👋 Hola, soy VladAlz
 
-### Full Stack Developer | Estudiante UTA | Ambato, Ecuador
+### Full Stack Developer | Ingeniería de Software | UTA · Ambato, Ecuador
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -13,9 +13,9 @@
 
 ## 🧑‍💻 Sobre mí
 
-Soy estudiante de la **Universidad Técnica de Ambato**, apasionado por el desarrollo web y backend. Me especializo en **TypeScript y React**, con experiencia en arquitecturas de **microservicios** y bases de datos en la nube.
+Soy estudiante de **Ingeniería de Software** en la Universidad Técnica de Ambato, apasionado por el desarrollo web y backend. Me especializo en **TypeScript y React**, con experiencia en arquitecturas de **microservicios** y bases de datos en la nube.
 
-- 🏫 Estudiante en la **Universidad Técnica de Ambato (UTA)**
+- 🏫 **Universidad Técnica de Ambato (UTA)** — Ingeniería de Software
 - 💻 Trabajo principalmente con **TypeScript, React y CSS**
 - 🗄️ Manejo bases de datos **SQL** y servicios en la **nube**
 - ⚙️ Experiencia en arquitectura de **microservicios**
@@ -53,8 +53,8 @@ Videojuego de estilo Plants vs Zombies orientado a cartillas educativas interact
 
 ## 📊 Estadísticas de GitHub
 
-![VladAlz's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladAlz&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladAlz&layout=compact&hide_border=true)
+![VladAlz's GitHub stats](https://github-readme-stats.vercel.app/api?username=VladAlz&show_icons=true&theme=tokyonight&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VladAlz&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
@@ -62,6 +62,10 @@ Videojuego de estilo Plants vs Zombies orientado a cartillas educativas interact
 
 [![GitHub](https://img.shields.io/badge/GitHub-VladAlz-181717?style=flat&logo=github)](https://github.com/VladAlz)
 [![Portfolio](https://img.shields.io/badge/Portfolio-VladAlz.github.io-blue?style=flat&logo=githubpages)](https://VladAlz.github.io)
+[![Instagram](https://img.shields.io/badge/Instagram-vladd__alz-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/vladd_alz/)
+[![Facebook](https://img.shields.io/badge/Facebook-Vlady%20González-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/vlady.gonzalez.169/about)
+[![Email](https://img.shields.io/badge/Email-umberlarez@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:umberlarez@gmail.com)
+[![Teléfono](https://img.shields.io/badge/Celular-0967839966-25D366?style=flat&logo=whatsapp&logoColor=white)](https://wa.me/593967839966)
 
 ---
 
